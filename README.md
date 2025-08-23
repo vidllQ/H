@@ -3,6 +3,11 @@
     <img src="mrsiita_logo.png" width="200" alt="Mrsiita YouTube Channel">
   </a>
 </p>
+<p align="center">
+  <a href="https://www.youtube.com/@Mrsiita">
+    <img src="mrsiita_logo.png" width="200" alt="Mrsiita YouTube Channel">
+  </a>
+</p>
 Cfx.re (FiveM/RedM) 
 
 This repository contains the code for the Cfx.re projects, among which are the following:
